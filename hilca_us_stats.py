@@ -139,11 +139,7 @@ while p < l: # while place is less than length
 f.close() # close file
 
 
-# In[4]:
-
-
-get_ipython().system('[cvs data](images/cvs.png)')
-
+# ![cvs data](images/cvs.png)
 
 # ## Conclusiones
 # 

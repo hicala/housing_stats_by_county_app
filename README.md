@@ -128,10 +128,7 @@ while p < l: # while place is less than length
 f.close() # close file
 ```
 
-
-```python
 ![cvs data](images/cvs.png)
-```
 
 ## Conclusiones
 
