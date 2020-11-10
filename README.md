@@ -24,7 +24,7 @@ The data I used came from U.S. Basic Housing Stats by County. American Community
 4. Testing out data requests
 5. Write data to a file in pseudo-code:
     + Open up a file to write in and append data.
-    + Set up parameters for the while loop. 
+    + Set up parameters for the while loop.
     + Write headers
     + Run while loop that will write elements of the array to file
     + When complete, close the file
