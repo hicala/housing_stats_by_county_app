@@ -65,7 +65,7 @@ URL = 'http://duspviz.mit.edu/_assets/data/county_housing_stats.html'
 response = requests.get(URL)
 ```
 
-Control of Connection. We just turned the website code into a Python object. 
+Control of Connection. We just turned the website code into a Python object.
 
 
 ```python
