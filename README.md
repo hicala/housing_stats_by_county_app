@@ -6,7 +6,7 @@ I am using Beautiful Soup for the this Python app. Beautiful Soup is a Python li
 
 The major concept with Beautiful Soup is that it allows you to access elements of your page by following the CSS structures, such as grabbing all links, all headers, specific classes, or more. It is a powerful library. Once we grab elements, Python makes it easy to write the elements or relevant components of the elements into other files, such as a CSV, that can be stored in a database or opened in other software.
 
-The data I used came from U.S. Basic Housing Stats by County. American Community Survey 5-year Estimates (2010-2015). Reference: http://duspviz.mit.edu/_assets/data/county_housing_stats.html
+The data I used came from U.S. Basic Housing Stats by County. American Community Survey 5-year Estimates (2010-2015). Reference: http://duspviz.mit.edu/_assets/data/county_housing_stats.html 
 
 ![Home Page](images/home.png)
 
