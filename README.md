@@ -59,7 +59,7 @@ Load a webpage into python so that we can parse it and manipulate it.
 ```python
 # Load a webpage into python so that we can parse it and manipulate it.
 # Control of Connection
-# We just turned the website code into a Python object. 
+# We just turned the website code into a Python object.
 
 URL = 'http://duspviz.mit.edu/_assets/data/county_housing_stats.html'
 response = requests.get(URL)
@@ -99,6 +99,8 @@ Later, I write headers
 ```python
 f.write("County, State, FIPS Code, Total Pop, Median Income ($), No. of Housing Units, Median Home Value ($), No. of Owner Occupied Housing Units, No. of Owner Occ. Housing Units with Debt, No. of Owner Occ. Housing Units without Debt\n") #write headers
 ```
+
+While place is less than length
 
 
 ```python
